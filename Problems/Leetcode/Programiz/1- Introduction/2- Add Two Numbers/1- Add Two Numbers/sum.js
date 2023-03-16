@@ -3,7 +3,10 @@
 
 
 /*
-  writeHere
+  We use the + operator to add two or more numbers.
+  
+  Output  :
+  The sum of 5 and 3 is: 8
   
   16-March-2023
 */
