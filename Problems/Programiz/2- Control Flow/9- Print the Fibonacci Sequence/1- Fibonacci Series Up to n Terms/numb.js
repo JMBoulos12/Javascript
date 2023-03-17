@@ -17,7 +17,7 @@
   1
   2
 
-  In this pgram, the user is prompted to enter the numbers of terms that they want in the Fibonacci series.
+  In this program, the user is prompted to enter the numbers of terms that they want in the Fibonacci series.
 
   The for loop iterates up to the number entered by the user.
 
