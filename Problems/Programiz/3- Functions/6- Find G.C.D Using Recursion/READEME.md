@@ -1,6 +1,6 @@
 
 
-### Properties
+### Execution Steps
 
 | No.	 | Recursive call	| n1	| n2 | n1 % n2 |
 | --- | --- | --- | --- | --- |
