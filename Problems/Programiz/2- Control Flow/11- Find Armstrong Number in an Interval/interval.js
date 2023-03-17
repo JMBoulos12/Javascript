@@ -34,6 +34,17 @@
   
   The loop continues for all the numbers that are in between the lower and upper bounds provided by the user. 
   In the above example, the loop is executed from 8 to 500.
+  
+  Output  :
+  Enter a positive low integer value: 8
+  Enter a positive high integer value: 500
+  Armstrong Numbers: 
+  8
+  9
+  153
+  370
+  371
+  407
 
   17-March-2023
 */
