@@ -1,2 +1,3 @@
 # $${\color{green}EASY}$$
-![Capture](https://user-images.githubusercontent.com/65892342/233918098-35febd2c-51a3-4e1b-9892-4774ad221638.PNG)
+![phone-number](https://user-images.githubusercontent.com/65892342/233918183-5ccfabcb-2fb1-4d6b-980c-561e8e4babc8.svg)
+
