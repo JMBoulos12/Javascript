@@ -1,2 +1,2 @@
 # $${\color{orange}MEDIUM}$$
-https://dg8krxphbh767.cloudfront.net/exercises/pig-latin.svg
+![image](https://user-images.githubusercontent.com/65892342/235099589-80fc8340-665c-4f1a-b9ee-8930d30301d1.png)
