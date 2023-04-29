@@ -55,3 +55,5 @@ const CATEGORIES = {
   ones: sumRoll(1)
 };
 export const score = (dice, category) => CATEGORIES[category](dice);
+
+
